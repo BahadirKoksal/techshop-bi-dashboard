@@ -74,4 +74,4 @@ View on Looker Studio: (https://datastudio.google.com/u/0/reporting/dc1b8cac-488
 - Looker Studio (Google Data Studio)
 
 ## Author
-Bahadır Köksal — Data Analysis Student @ Workintech
+Bahadır Köksal 
